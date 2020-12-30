@@ -1,0 +1,5 @@
+com.mycompany.mywebapp.client.MyWebApp
+com.mycompany.mywebapp.server.GreetingServiceImpl
+com.mycompany.mywebapp.client.GreetingService
+com.mycompany.mywebapp.client.GreetingServiceAsync
+com.mycompany.mywebapp.shared.FieldVerifier

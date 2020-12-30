@@ -1,0 +1,9 @@
+org\jboss\resteasy\rest\GetClichedMessageFilter.class
+org\jboss\resteasy\rest\RESTEasyClient.class
+org\jboss\resteasy\rest\LoggingFilter.class
+org\jboss\resteasy\rest\async\AsyncClient.class
+org\jboss\resteasy\rest\ClientFilter.class
+org\jboss\resteasy\rest\HelloWorldResource.class
+org\jboss\resteasy\rest\async\AsyncResource.class
+org\jboss\resteasy\rest\async\AsyncClient$1.class
+org\jboss\resteasy\rest\async\AsyncTimeoutHandler.class
